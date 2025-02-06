@@ -44,7 +44,7 @@ Assalamu Alaikum! I'm Rayyan , a passionate **IT student and cybersecurity enthu
 
 
 ### 🐍 Python Algorithm for IP Address Filtering  
-📄 **Report:** [Python Algorithm Cybersecurity.pdf]()  
+📄 **Report:** [Python Algorithm Cybersecurity.pdf](https://github.com/gahwah/CyberSecurity-Portfolio/blob/5095e47a18889a1585847da564904e9e17aeab31/pyhton_algorithm%20cybersecurity.pdf)  
 - ✅ Developed a **Python script** to update an IP allow list for **network access control**  
 - 🔍 Used **file handling techniques** to read, modify, and update `allow_list.txt`  
 - 🔐 Implemented **list filtering** to remove unauthorized IPs based on `remove_list.txt`  
