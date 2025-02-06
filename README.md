@@ -24,6 +24,16 @@ Assalamu Alaikum! I'm Rayyan , a passionate **IT student and cybersecurity enthu
 - 📑 Provided **detailed recommendations** to improve confidentiality, integrity, and security  
 - 📄 **Audit Report:** [Security Audit.pdf](https://github.com/gahwah/CyberSecurity-Portfolio/blob/29490def0a12109102e5f67c8ef2bf4829f3ff27/Security%20Audit.pdf)
 
+- ### 🔍 Vulnerability Assessment Report  
+📄 **Report:** [Vulnerability Assessment Report.pdf]()  
+- ✅ Conducted a **vulnerability assessment** on a **Linux-based MySQL database server**  
+- 🔍 Identified **threat sources and risks** using **NIST SP 800-30 Rev. 1** framework  
+- 📊 Assessed risks from **hackers, employees, and customers**, evaluating likelihood & severity  
+- 🔐 Recommended **remediation strategies**:  
+  - **Role-based access control (RBAC) & multi-factor authentication (MFA)**  
+  - **TLS encryption for data in motion**  
+  - **IP allow-listing to restrict unauthorized access**  
+
 ### 🔍 **Network Traffic Analysis with Wireshark**  
 **📂 Repository:** [network-security-monitoring](https://github.com/rayyanabdulsattar/network-security-monitoring)  
 - Captured and analyzed network packets using **Wireshark** and **Suricata**  
