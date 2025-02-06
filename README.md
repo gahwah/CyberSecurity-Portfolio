@@ -18,6 +18,15 @@ Assalamu Alaikum! I'm Rayyan , a passionate **IT student and cybersecurity enthu
 
 ## 📌 Featured Projects  
 
+
+### 🚨 Incident Handler Journal  
+📄 **Report:** [Incident Handler Journal.pdf]()  
+- ✅ **Documented cybersecurity incidents** following **incident response phases**  
+- 🔍 Investigated a **ransomware attack** using the **5 W's framework (Who, What, Where, When, Why)**  
+- 🛠️ **Analyzed network traffic** using **Wireshark** and **tcpdump**  
+- 🛡️ Investigated **malicious file hashes** with **VirusTotal**  
+- 📖 Reflected on **key learnings in cybersecurity incident detection and response**  
+
 ### 🛡️ Security Audit Assessment  
 - ✅ Conducted a **comprehensive security audit** evaluating risk and compliance frameworks  
 - 🔍 Assessed **access controls, network security, and organizational security posture**  
