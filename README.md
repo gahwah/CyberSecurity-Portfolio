@@ -17,6 +17,13 @@ Assalamu Alaikum! I'm Rayyan , a passionate **IT student and cybersecurity enthu
 ---
 
 ## 📌 Featured Projects  
+
+### 🛡️ Security Audit Assessment  
+- ✅ Conducted a **comprehensive security audit** evaluating risk and compliance frameworks  
+- 🔍 Assessed **access controls, network security, and organizational security posture**  
+- 📑 Provided **detailed recommendations** to improve confidentiality, integrity, and security  
+- 📄 **Audit Report:** [Security Audit.pdf](https://github.com/your-username/security-audit-assessment/blob/main/Security%20Audit.pdf)  
+
 ### 🔍 **Network Traffic Analysis with Wireshark**  
 **📂 Repository:** [network-security-monitoring](https://github.com/rayyanabdulsattar/network-security-monitoring)  
 - Captured and analyzed network packets using **Wireshark** and **Suricata**  
