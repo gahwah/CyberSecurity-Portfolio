@@ -32,7 +32,15 @@ Assalamu Alaikum! I'm Rayyan , a passionate **IT student and cybersecurity enthu
 - 🔐 Recommended **remediation strategies**:  
   - **Role-based access control (RBAC) & multi-factor authentication (MFA)**  
   - **TLS encryption for data in motion**  
-  - **IP allow-listing to restrict unauthorized access**  
+  - **IP allow-listing to restrict unauthorized access**
+
+### 🛠️ Applying Security Filters in SQL  
+📄 **Report:** [Applying_filters in SQL.pdf]()  
+- ✅ **Enhanced database security** by applying SQL filters to detect suspicious login activity  
+- 🔍 Investigated **failed login attempts after business hours** using SQL queries  
+- 📊 Filtered login attempts based on **specific dates and geographic locations**  
+- 🔐 Identified employees requiring **security updates** based on department data  
+- 🚀 Used **WHERE, AND, OR, NOT, and LIKE** SQL operators for data filtering  
 
 ### 🔍 **Network Traffic Analysis with Wireshark**  
 **📂 Repository:** [network-security-monitoring](https://github.com/rayyanabdulsattar/network-security-monitoring)  
