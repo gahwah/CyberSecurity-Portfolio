@@ -35,12 +35,24 @@ Assalamu Alaikum! I'm Rayyan , a passionate **IT student and cybersecurity enthu
   - **IP allow-listing to restrict unauthorized access**
 
 ### 🛠️ Applying Security Filters in SQL  
-📄 **Report:** [Applying_filters in SQL.pdf]()  
+📄 **Report:** [Applying_filters in SQL.pdf](https://github.com/gahwah/CyberSecurity-Portfolio/blob/29e63ede19bac24fbef2f72be52eeaa032f40af9/File%20Permissions%20in%20Linux.pdf)  
 - ✅ **Enhanced database security** by applying SQL filters to detect suspicious login activity  
 - 🔍 Investigated **failed login attempts after business hours** using SQL queries  
 - 📊 Filtered login attempts based on **specific dates and geographic locations**  
 - 🔐 Identified employees requiring **security updates** based on department data  
-- 🚀 Used **WHERE, AND, OR, NOT, and LIKE** SQL operators for data filtering  
+- 🚀 Used **WHERE, AND, OR, NOT, and LIKE** SQL operators for data filtering
+
+
+### 🐍 Python Algorithm for IP Address Filtering  
+📄 **Report:** [Python Algorithm Cybersecurity.pdf]()  
+- ✅ Developed a **Python script** to update an IP allow list for **network access control**  
+- 🔍 Used **file handling techniques** to read, modify, and update `allow_list.txt`  
+- 🔐 Implemented **list filtering** to remove unauthorized IPs based on `remove_list.txt`  
+- 🚀 Applied **Python methods**:  
+  - `.read()` to extract file contents  
+  - `.split()` to convert IPs into a list  
+  - `.remove()` to delete unauthorized IPs  
+  - `.join()` and `.write()` to update the allow list  
 
 ### 🔍 **Network Traffic Analysis with Wireshark**  
 **📂 Repository:** [network-security-monitoring](https://github.com/rayyanabdulsattar/network-security-monitoring)  
