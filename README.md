@@ -1,16 +1,16 @@
 
 # 🛡️ Rayyan Mansuri - Cybersecurity Portfolio  
-📍 Medina, Saudi Arabia | 🖥️ IT Student | 🛠️ Cybersecurity Enthusiast  
+📍 Medina, Saudi Arabia | 🖥️ IT Student | 🛠️ Cybersecurity 
 
 ## 🚀 About Me  
 Assalamu Alaikum! I'm Rayyan , a passionate **IT student and cybersecurity enthusiast** who recently completed the **Google Cybersecurity Professional Certificate**. I specialize in **network security, incident response, risk management, and Python scripting for security automation**. My goal is to leverage my skills to contribute to cybersecurity solutions that enhance security and digital safety.
 
 🔹 **Certification:** Google Cybersecurity Professional Certificate  
-🔹 **Interests:** Cybersecurity, Ethical Hacking, AI in Security, Digital Forensics  
+🔹 **Interests:** Cybersecurity, Ethical Hacking, AI in Security, Risk Assesment ,GRC 
+
 🔹 **Skills & Tools:**  
 - 🛡️ **Network Security:** Wireshark, Suricata, Intrusion Detection Systems (IDS)  
 - 🖥️ **Linux Security:** File permissions, security hardening  
-- 🔍 **SQL & Database Security:** Preventing SQL injection, analyzing security logs  
 - 🚨 **Incident Response & Risk Management**  
 - 🐍 **Python for Security Automation**  
 
